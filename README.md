@@ -1,6 +1,6 @@
 # Taller práctico · Diagramas con draw.io · RPG Manager
 
-**Estudiante:** Cristian Castro Tapiero · **Grupo:** 5· **Fecha:** 3/03/2026
+**Estudiante:** Cristian Castro Tapiero · **Grupo:** 5 · **Fecha:** 30/10/2026
 
 Archivos editables (`.drawio`) y exportados (`.svg`, con copia del diagrama incluida para reabrirlos en draw.io).
 
@@ -73,7 +73,7 @@ Archivos editables (`.drawio`) y exportados (`.svg`, con copia del diagrama incl
 
 Mensaje del commit: `[semana-N] diagramas contexto, casos de uso y actividades`
 
-**URL de mi commit:** _________________________________________________
+**URL de mi commit:** https://github.com/cristianct77/Taller_diagramas/commit/15ff068
 
 ---
 
@@ -94,10 +94,10 @@ Mensaje del commit: `[semana-N] diagramas contexto, casos de uso y actividades`
 
 | Tema | No entendí | Más o menos | ¡Lo tengo! |
 |---|:---:|:---:|:---:|
-| Manejo básico de draw.io | ☐ | ☐ | x |
-| Diagrama de contexto y flujos de datos | ☐ | ☐ | x |
-| Actores y casos de uso | ☐ | ☐ | ☐ |
-| «include», «extend» y generalización | ☐ | ☐ |x |
-| Decisiones, guardas y carriles | ☐ | ☐ |x |
-| Fork / Join | ☐ | ☐ | ☐ |
-| Exportar y versionar en GitHub | ☐ | ☐ | x|
+| Manejo básico de draw.io | ☐ | ☐ | **X** |
+| Diagrama de contexto y flujos de datos | ☐ | ☐ | **X** |
+| Actores y casos de uso | ☐ | ☐ | **X** |
+| «include», «extend» y generalización | ☐ | ☐ | **X** |
+| Decisiones, guardas y carriles | ☐ | ☐ | **X** |
+| Fork / Join | ☐ | ☐ | **X** |
+| Exportar y versionar en GitHub | ☐ | ☐ | **X** |
